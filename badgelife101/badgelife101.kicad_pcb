@@ -442,7 +442,7 @@
     (property "ki_keywords" "test point tp")
     (path "/14a3f922-667e-4ec4-945c-d31edf339ed2")
     (attr smd)
-    (fp_text reference "TP1" (at 8.1 0.7 unlocked) (layer "B.SilkS") hide
+    (fp_text reference "TP1" (at 8.1 0.7 unlocked) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 926ae52b-de1a-40d9-8f36-f4f4bd11c633)
     )
