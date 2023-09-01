@@ -11,6 +11,7 @@
    sodipodi:docname="hexxie.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.74029882"
-     inkscape:cx="396.46153"
-     inkscape:cy="561.25984"
+     inkscape:zoom="4.2562545"
+     inkscape:cx="271.13041"
+     inkscape:cy="169.51524"
      inkscape:window-width="1692"
      inkscape:window-height="1077"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1">
     <inkscape:path-effect
@@ -51,9 +52,26 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,6.3603792,0,1 @ F,0,1,1,0,6.3603792,0,1 @ F,0,1,1,0,6.3603792,0,1 @ F,0,1,1,0,6.3603792,0,1 @ F,0,1,1,0,6.3603792,0,1 @ F,0,1,1,0,6.3603792,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Outline"
      inkscape:groupmode="layer"
      id="layer1">
     <path
@@ -62,6 +80,108 @@
        d="m 79.354532,89.103132 -22.579794,-2e-6 A 11.0165,11.0165 30.000003 0 1 47.23417,83.59488 L 35.944273,64.040204 a 11.0165,11.0165 90.000003 0 1 10e-7,-11.0165 L 47.234172,33.46903 a 11.0165,11.0165 150 0 1 9.540569,-5.50825 l 22.579794,1e-6 a 11.0165,11.0165 30.000001 0 1 9.540569,5.50825 L 100.185,53.023707 a 11.016499,11.016499 90.000003 0 1 0,11.0165 L 88.895101,83.594882 a 11.0165,11.0165 150 0 1 -9.540569,5.50825 z"
        inkscape:path-effect="#path-effect1"
        inkscape:original-d="m 85.714911,89.103132 -35.300552,-2e-6 -17.650275,-30.571176 17.650278,-30.571174 35.300552,1e-6 17.650276,30.571176 z"
-       transform="matrix(0.65139223,0,0,0.65139223,11.969842,9.7012273)" />
+       transform="matrix(0.65139223,0,0,0.65139223,11.969842,9.7012273)"
+       inkscape:label="Cuts" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="FrontArt">
+    <path
+       id="path1-3"
+       style="fill:none;stroke:#000000;stroke-width:3.23194;stroke-dasharray:none"
+       d="m 79.354532,89.103132 -22.579794,-2e-6 A 11.0165,11.0165 30.000003 0 1 47.23417,83.59488 L 35.944273,64.040204 a 11.0165,11.0165 90.000003 0 1 10e-7,-11.0165 L 47.234172,33.46903 a 11.0165,11.0165 150 0 1 9.540569,-5.50825 l 22.579794,1e-6 a 11.0165,11.0165 30.000001 0 1 9.540569,5.50825 L 100.185,53.023707 a 11.016499,11.016499 90.000003 0 1 0,11.0165 L 88.895101,83.594882 a 11.0165,11.0165 150 0 1 -9.540569,5.50825 z"
+       inkscape:path-effect="#path-effect1-7"
+       inkscape:original-d="m 85.714911,89.103132 -35.300552,-2e-6 -17.650275,-30.571176 17.650278,-30.571174 35.300552,1e-6 17.650276,30.571176 z"
+       transform="matrix(0.62136606,0,0,0.62136606,14.013562,11.458718)"
+       inkscape:label="BoldLine" />
+    <g
+       id="g1722"
+       transform="matrix(0.15407796,-0.11446186,0.11446186,0.15407796,-180.27159,162.20327)"
+       inkscape:label="LED Symbol">
+      <g
+         transform="translate(504)"
+         id="g1693">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1684"
+           d="m 805,262.41665 h 21"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1687"
+           d="M 854.00002,262.41665 H 868"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1689"
+           d="m 854,262.41665 -28,14 v -28 z"
+           style="display:inline;fill:#000000;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1691"
+           d="m 854,248.41665 v 28"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1340.5,228.29165 7,5.25 1.75,-9.625 z"
+         id="path1697"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1699"
+         d="m 1344,230.91665 -5.25,7"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1702"
+         d="m 1352.75,231.79165 7,5.25 1.75,-9.625 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1356.25,234.41665 -5.25,7"
+         id="path1704"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Freeway Gothic';-inkscape-font-specification:'Freeway Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1;letter-spacing:-0.396875px"
+       id="text3"
+       inkscape:label="BadgeLifeText"><textPath
+         xlink:href="#circle4"
+         id="textPath4"><tspan
+           id="tspan3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Freeway Gothic';-inkscape-font-specification:'Freeway Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;letter-spacing:-0.396875px">BADGELIFE</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Freeway Gothic';-inkscape-font-specification:'Freeway Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       id="text4"><textPath
+         xlink:href="#circle4-4"
+         id="textPath5"><tspan
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Freeway Gothic';-inkscape-font-specification:'Freeway Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1">MERIT BADGE</tspan></textPath></text>
+    <circle
+       style="fill:none;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4"
+       cx="-73.261559"
+       cy="-9.5259514"
+       r="12.022502"
+       transform="rotate(-147.06286)"
+       inkscape:label="BLPath" />
+    <circle
+       style="fill:none;stroke:none;stroke-width:0.12646;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4-4"
+       cx="-15.179282"
+       cy="72.302078"
+       r="15.203714"
+       inkscape:label="MBPath"
+       transform="matrix(-0.79017823,0.61287711,0.61287711,0.79017823,0,0)" />
   </g>
 </svg>
