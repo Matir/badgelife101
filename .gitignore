@@ -1,3 +1,5 @@
 ~*
 *-backups
 gerbers.zip
+*.lck
+\#auto_saved_files#
